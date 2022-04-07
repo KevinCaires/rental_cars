@@ -1,4 +1,4 @@
-# Programa de locação de carros. : WIP
+# Programa de locação de carros.
 
 ## Obetivos.
 
